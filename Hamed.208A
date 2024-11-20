@@ -1,6 +1,6 @@
-warp://License@IP:port?ifp=n1-n2&ifps=s1-s2&ifpd=d1-d2&ifpm=modea
+warp://License@IP:port?ifp=n1-n2&ifps=s1-s2&ifpd=d1-d2&ifpm=modea13
 warp://auto?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#Test13
 warp://162.159.192.236:955?ifp-4-8&ifps-40-80&ifpd-20-40&ifpm-m4#Test13
 warp://previous_config&&detour-warp://auto13
 warp://pl@IP:port?ifp=sl-s2&ifps=s1-s2&ifpd=d1-d2&ifpm=mode13
-warp://p2@IP:port?ifp-sl-s2&ifps-sl-s2&ifpd=d1-d2&ifpm-mode
+warp://p2@IP:port?ifp-sl-s2&ifps-sl-s2&ifpd=d1-d2&ifpm-mode13
